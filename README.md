@@ -9,7 +9,7 @@
 ---
 
 ### ⚡ Quick bio
-- 🏢 **Day job**: Administrative Analyst @ ANEEL (Brazilian Electricity Regulator)
+- 🏢 **Day job**: Analyst @ ANEEL (Brazilian Electricity Regulator)
 - 🚀 **After hours**: hacking with AI/ML, DeFi dashboards & nostalgic side‑projects
 - ☕ **Fuel**: coffee and a pinch of curiosity
 - 🌍 **Mission**: make data & tech more transparent, inclusive and fun
